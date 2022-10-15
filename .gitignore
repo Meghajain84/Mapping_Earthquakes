@@ -1,3 +1,6 @@
+# additional files
+Simple_Map/static/js/config.js
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
